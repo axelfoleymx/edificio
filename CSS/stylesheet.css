@@ -2,7 +2,7 @@
 
 .piso{height: 242.5px;
 	
-	background-color: gray;
+	background-color: #B3B3B3;
 	float: left;
 
 }
@@ -16,7 +16,7 @@
 
 }
 .pasto{
-	background-color: #00FF00;
+	background-color: #09BD29;
 	height: 50px;
 	left: 15px;
 	padding: 0;
@@ -27,7 +27,7 @@ top: 14px;
 height: 84px;
 width: 84px;
 float: left;
-background-color:#00FFFF;
+background-color:#66CCFF;
 z-index: +1;
 margin: 10px;
 
