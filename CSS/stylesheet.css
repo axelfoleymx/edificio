@@ -1,0 +1,48 @@
+
+
+.piso{height: 242.5px;
+	
+	background-color: gray;
+	float: left;
+
+}
+.tabl{
+	margin: 15px;
+	padding: 15px;
+	
+	margin-top: 110px;
+	position: relative;
+	z-index: -1;
+
+}
+.pasto{
+	background-color: #00FF00;
+	height: 50px;
+	left: 15px;
+	padding: 0;
+}
+.ventana{
+position: relative;
+top: 14px;
+height: 84px;
+width: 84px;
+float: left;
+background-color:#00FFFF;
+z-index: +1;
+margin: 10px;
+
+
+}
+
+.puerta{
+	background: orange;
+position: relative;
+top:70px;
+left: 20px;
+height: 168px;
+width: 84px;
+float: left;
+background-color:#orange;
+z-index: +1;
+
+}
