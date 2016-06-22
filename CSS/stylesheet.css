@@ -34,7 +34,7 @@ margin: 10px;
 
 }
 
-.puerta{
+.puerta,.puerta-d{
 	background: orange;
 position: relative;
 top:70px;
@@ -44,5 +44,9 @@ width: 84px;
 float: left;
 background-color:#orange;
 z-index: +1;
+
+}
+.puerta-d{
+margin-right: 40px;
 
 }
