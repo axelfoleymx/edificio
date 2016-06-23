@@ -7,6 +7,7 @@
 
 }
 .tabl{
+	
 	margin: 15px;
 	padding: 15px;
 	
@@ -57,4 +58,26 @@ margin-right: 40px;
     top: -60px;
     left: 4%;
 }
-
+.arbol {
+  position: absolute;
+  bottom: 30px;
+  left: -30px;
+  width: 70px;
+}
+.follaje {
+  position: absolute;
+  bottom: 80px;
+  width: 100px;
+  height: 185px;
+  background-color: green;
+  z-index: +1;
+}
+.tronco {
+  height: 120px;
+  width: 40px;
+  left: 30px;
+  position: absolute;
+  background-color: brown;
+  bottom: -20px;
+  z-index: +1;
+}
